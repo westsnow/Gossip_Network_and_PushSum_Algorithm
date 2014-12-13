@@ -11,9 +11,9 @@ Organization:
 
 - The result can be found at report.pdf.
 
-   The result about the fault tolerance of gossip network can be found at report_fault_tolerance.pdf.
+- The result about the fault tolerance of gossip network can be found at report_fault_tolerance.pdf.
 
-*src contains the code of the first version.
+- src contains the code of the first version.
 
-*src2 contains the code of the second version, where we can test the fault tolerance.
+- src2 contains the code of the second version, where we can test the fault tolerance.
 
