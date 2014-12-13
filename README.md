@@ -6,9 +6,10 @@ This projects tested gossip and pushsum algorithms on various topologies.
 -------------
 
 Organization:
-   *A brief introduction of this project can be found at readme.pdf.
 
-   *The result can be found at report.pdf.
+- A brief introduction of this project can be found at readme.pdf.
+
+- The result can be found at report.pdf.
 
    The result about the fault tolerance of gossip network can be found at report_fault_tolerance.pdf.
 
