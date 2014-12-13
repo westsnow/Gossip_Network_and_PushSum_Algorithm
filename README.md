@@ -2,6 +2,7 @@ Gossip_Network_and_PushSum_Algorithm
 ====================================
 
 This is a distributed system among gossip network.
+-------------------
 
 This projects tested gossip and pushsum algorithms on various topologies.
 
